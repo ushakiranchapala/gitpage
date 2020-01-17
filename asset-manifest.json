@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gitpage/static/css/main.a03bcf91.chunk.css",
+    "main.js": "/gitpage/static/js/main.efbce2d4.chunk.js",
+    "main.js.map": "/gitpage/static/js/main.efbce2d4.chunk.js.map",
+    "runtime-main.js": "/gitpage/static/js/runtime-main.da2d8409.js",
+    "runtime-main.js.map": "/gitpage/static/js/runtime-main.da2d8409.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/gitpage/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.4a46ef90.chunk.js": "/gitpage/static/js/2.4a46ef90.chunk.js",
+    "static/js/2.4a46ef90.chunk.js.map": "/gitpage/static/js/2.4a46ef90.chunk.js.map",
+    "index.html": "/gitpage/index.html",
+    "precache-manifest.561dbfc1de3d3061904e143aa74fcd05.js": "/gitpage/precache-manifest.561dbfc1de3d3061904e143aa74fcd05.js",
+    "service-worker.js": "/gitpage/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/gitpage/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.a03bcf91.chunk.css.map": "/gitpage/static/css/main.a03bcf91.chunk.css.map",
+    "static/js/2.4a46ef90.chunk.js.LICENSE": "/gitpage/static/js/2.4a46ef90.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da2d8409.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.4a46ef90.chunk.js",
+    "static/css/main.a03bcf91.chunk.css",
+    "static/js/main.efbce2d4.chunk.js"
+  ]
+}
